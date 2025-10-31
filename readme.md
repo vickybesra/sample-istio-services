@@ -1,7 +1,5 @@
 # Spring Boot With Istio Demo Project [![Twitter](https://img.shields.io/twitter/follow/piotr_minkowski.svg?style=social&logo=twitter&label=Follow%20Me)](https://twitter.com/piotr_minkowski)
 
-[![CircleCI](https://circleci.com/gh/piomin/sample-istio-services.svg?style=svg)](https://circleci.com/gh/piomin/sample-spring-kotlin-microservice)
-
 In this project I'm demonstrating you the most interesting features of [Istio](https://istio.io) for building service mesh with Spring Boot on Kubernetes.
 
 ## Getting Started 
